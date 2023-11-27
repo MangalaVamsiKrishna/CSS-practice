@@ -8,6 +8,7 @@ body{
     border-radius: 12px;
     /* padding: 10px 10px; */
     height: 350px;
+  
 
 }
 .card-img{
@@ -77,6 +78,20 @@ body{
     align-items: center;
     justify-content: space-between;
 
+}
+.btn2{
+    position: absolute;
+    /* width: 200px; */
+    background-color: rgb(250, 250, 173);
+    border: none;
+    bottom: 0;
+    left: 0;
+    margin: 15px;
+    border-radius: 10px;
+
+}
+.button1{
+    position: relative;
 }
 
 
